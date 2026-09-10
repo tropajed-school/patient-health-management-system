@@ -1,0 +1,42 @@
+1001
+Wheelchair
+3/15/2025
+1525.37
+8
+300.00
+Electric
+2501
+Blood pressure monitor
+2/28/2025
+350.00
+4
+50.00
+Digital display
+1002
+Hoyer Lift
+12/1/2024
+9550.00
+15
+120.00
+Electric and manual
+2512
+Glucose meter
+2/1/2025
+250.00
+2
+20.00
+Digital display
+2504
+Pulse oximeter
+10/15/2024
+50.00
+2
+5.00
+Digital display
+2519
+Cardiac monitor
+6/12/2025
+400.00
+3
+50.00
+Print and digital display

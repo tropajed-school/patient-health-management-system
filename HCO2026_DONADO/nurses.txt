@@ -1,0 +1,35 @@
+65
+Betty
+Jones
+18.50
+RN
+51
+Cathy
+Stollings
+17.00
+LPN
+21
+Sara
+Smith
+20.90
+Nurse Practitioner
+49
+Jenny
+Daniels
+17.50
+LPN
+28
+Martha
+Powell
+18.25
+RN
+62
+Georgia
+Mabry
+16.75
+LPN
+77
+Rachel
+Hughes
+21.00
+Nurse Practitioner

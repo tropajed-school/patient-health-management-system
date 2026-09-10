@@ -1,0 +1,34 @@
+1
+Bathing
+2
+Feeding
+3
+Insulin Injections
+4
+Blood Pressure Monitoring
+5
+Physical Therapy
+6
+Occupational Therapy
+7
+Speech Therapy
+8
+Feeding Tube Care
+9
+Catheter Care
+10
+Wound Care
+11
+Blood Sugar Monitoring
+12
+Oxygen Therapy
+13
+Medication Management
+14
+Pain Management
+15
+Patient Education
+16
+Hospice Care
+17
+Respite Care
